@@ -2,7 +2,7 @@
 
 #### My name is Mathéo and I'm 19!
 I'm computer science **student** and here is my personal and school work.  
-Currently, I am looking for an **internship** and a **work-study program**! 
+⚠️Currently, I am looking for an **internship** and a **work-study program** in software engineering or AI! 
 
 ## 🌌 About me
 
