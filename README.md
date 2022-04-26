@@ -2,13 +2,14 @@
 
 #### My name is Mathéo and I'm 19!
 I'm computer science **student** and here is my personal and school work.  
-⚠️Currently, I am looking for an **internship** and a **work-study program** in software engineering or AI!   
+⚠️Currently, I am looking for a **work-study program** in software engineering or AI!   
 #### You can find my main projects in the [Stars](https://github.com/matheoleger?tab=stars) category!
 
 ## 🌌 About me
 
-I love **programmation** since I'm 11.  
-But I also love lots of other things like _space_, _video games_, _video editing_ and more!
+I love **programmation** since I'm 11. Development has always been a means of self-expression.  
+My creativity is also reflected through video editing and audiovisual.
+But I also love lots of other things like _space_, _video games_ and more!
 
 ## 📧 Contact me
 
