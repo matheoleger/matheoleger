@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Mathéo and I'm 20!
+#### My name is Mathéo and I'm 21!
 I'm computer science **student** and here is my personal and school work.  
 #### You can find my main projects in the [Stars](https://github.com/matheoleger?tab=stars) category!
 
